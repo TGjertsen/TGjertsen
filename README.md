@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TGjertsen
-- 🌱 I’m currently building a stock analysis project using AI
 - 📖 I'm studying towards a BSc(Hons) Computer Science at the Univeristy of Bath
 
 <!---
